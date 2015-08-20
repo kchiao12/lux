@@ -2,7 +2,7 @@
 
 ### Proposed Ideas
 
-#### Required 
+#### Critical
 - [ ] Turn signals
 - [ ] Brake lights
 - [ ] Headlights
